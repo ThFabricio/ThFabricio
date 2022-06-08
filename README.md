@@ -1,7 +1,7 @@
 ### E ae! Eu Sou Thiago Fabricio!
 
 - 🌱 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco
-- 
+ 
 - 👨‍💻 Monitor de Laboratorio Voluntario no LMTS, Na Area de Desenvolvimento Web Back-End
 
 ## 
