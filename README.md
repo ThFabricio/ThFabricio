@@ -1,6 +1,7 @@
 ### E ae! Eu Sou Thiago Fabricio!
 
 - 🌱 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco
+- 
 - 👨‍💻 Monitor de Laboratorio Voluntario no LMTS, Na Area de Desenvolvimento Web Back-End
 
 ## 
@@ -24,6 +25,7 @@
   <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Th-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Th-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://i.pinimg.com/originals/5e/68/56/5e685609234847db0bc02bafc1868073.gif)">
   
 ##
   
