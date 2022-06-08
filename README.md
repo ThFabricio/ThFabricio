@@ -11,7 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThFabricio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
- <div style="display: inline_block"><br>
+##
+  
+- 🛠 Linguagens e Ferramentas
+  
+<div style="display: inline_block"><br>
   <img align="center" alt="Th-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Th-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Th-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
@@ -19,7 +23,7 @@
   <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Th-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Th-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
   
 ##
