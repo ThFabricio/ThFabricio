@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco
  
-- 👨‍💻 Monitor de Laboratorio Voluntario no LMTS, Na Area de Desenvolvimento Web
+- 👨‍💻 Monitor de Laboratorio no LMTS, Na Area de Desenvolvimento Web
 
 ## 
 
